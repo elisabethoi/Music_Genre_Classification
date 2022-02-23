@@ -8,20 +8,12 @@ We used the GTZAN dataset with the 10 genres:
 
 - Blues
 - Classical
-
 - Country
-
 - Disco
-
 - Hip-hop
-
 - Jazz
-
 - Metal
-
 - Pop
-
 - Reggae
-
 - Rock
 
