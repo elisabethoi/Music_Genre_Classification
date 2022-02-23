@@ -7,7 +7,6 @@ You can also see a video where we explain our code.
 We used the GTZAN dataset with the 10 genres:
 
 - Blues
-
 - Classical
 
 - Country
